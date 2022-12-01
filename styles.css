@@ -355,6 +355,11 @@ footer {
         height: 270px;
     }
 
+    .cards-banner-one,
+    .cards-banner-two {
+        height: 400px;
+    }
+
     .cards-banner-one > .content {
         width: 100%;
     }
